@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Hero from './component/Hero-Section/Hero'
+import Hero from './component/HomeScreen/Hero'
 
 function App() {
 

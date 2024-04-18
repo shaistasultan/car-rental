@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import Hero from './component/HomeScreen/Hero'
+import AboutUs from './component/AboutUs/AboutUs'
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
     <>
 
      <Hero/>
+     <AboutUs/>
 
      
     </>
